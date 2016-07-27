@@ -1,0 +1,39 @@
+/* 
+    Created on : 4-Dec-2015, 4-Dec-2015 11:43:24 PM
+    Author     : Benoit
+*/
+.root {
+    -fx-font-size: 12;
+}
+
+.button {
+    -fx-font-size: 14;
+}
+
+.title {
+    -fx-font-size: 18;
+    -fx-font-weight: bold;
+}
+
+.redText {
+    -fx-text-fill: #FF0000;
+}
+
+.table-column {
+    -fx-alignment: CENTER;
+    -fx-font-size: 14;
+}
+
+.bigtext {
+    -fx-font-size: 14;
+}
+
+.cowmilk{
+    -fx-padding: 2;
+    -fx-background-color: cornflowerblue;
+}
+
+.powdermilk{
+    -fx-padding: 2;
+    -fx-background-color: lightcoral;
+}
