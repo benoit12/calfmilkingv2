@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calfs>
+    <calfs>
+        <birth>2015-12-14T00:00:00-05:00</birth>
+        <correctedMilk>0.0</correctedMilk>
+        <correctionMilk>0.0</correctionMilk>
+        <idCalf>12</idCalf>
+        <isFemale>true</isFemale>
+        <milkType>COLOSTRUM</milkType>
+        <mother>we</mother>
+        <name>be</name>
+        <normalMilk>0.0</normalMilk>
+    </calfs>
+    <mode>SU</mode>
+</calfs>
